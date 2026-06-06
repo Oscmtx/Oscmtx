@@ -15,13 +15,9 @@ My goal is to contribute to a safer digital environment while continuously growi
 - 💡 I like to explore new technologies and learn new things.
 - 📫 Reach out to me at: om140343@gmail.com
 
-<p align="center">
-  <img src="https://github.com/MedinaPedroDev/MedinaPedroDev/raw/output/github-contribution-grid-snake-dark.svg" alt="snake"></center>
-</p>
-
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/oscar-mejia-taveras-6761b2325/"><img src="https://img.shields.io/badge/-Linkedin-0077B5.svg?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/pedromedina_18/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<!-- ## <a href="https://www.instagram.com/pedromedina_18/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a> -->
 </p>

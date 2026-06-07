@@ -9,9 +9,7 @@ Aspiring SOC Analyst with hands-on training in networking and cybersecurity. Cur
 My goal is to contribute to a safer digital environment while continuously growing as a cybersecurity professional.
 
 
-- 🌱 I’m currently learning ...
-    -Linux and Windows.
-    -IDS/SIEM opensource.
+- 🌱 I’m currently learning linux, IDS/SIEM opensource tools.
 - 💡 I like to explore new technologies and learn new things.
 - 📫 Reach out to me at: om140343@gmail.com
 
